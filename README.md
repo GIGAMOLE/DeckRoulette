@@ -1,9 +1,11 @@
+![](/Media/banner.png)
+
 # DeckRoulette
 
 <img width="1666" alt="deck_roulette" src="https://user-images.githubusercontent.com/7150913/162533531-1efeb94b-b13d-41cf-9e6d-983052570dfe.png">
 
 DeckRoulette is my first Unity game project for the [Unity Junior Programmer Course submission](https://learn.unity.com/tutorial/submission-programming-theory-in-action).  
-Play cards seamlessly and try to win. Have fun with emotes. 
+Play cards seamlessly and try to win. Have fun with emotes.
 
 ## Media
 
@@ -24,6 +26,7 @@ Or you can simply [download it from here](https://github.com/GIGAMOLE/DeckRoulet
 [![](https://user-images.githubusercontent.com/7150913/162576590-a9a446a2-c920-47c2-b7a9-802af1582f55.png)](https://gigamole.itch.io/deckroulette)
 
 ## Process
+
 During the development, I was discovering the most common Unity fundamentals and I was challenging myself with new tasks. After a while, I observed that the process of adding more and more features can be endless. So, after a while, I settled on a plan of deliverables. A few weeks more, and the game is ready to be deployed. The most struggles were in the technique of tying all of the game resources together and creating the whole full "picture".
 
 ### Created and developed
